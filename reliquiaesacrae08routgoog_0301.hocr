@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./reliquiaesacrae08routgoog_0301.png"; bbox 0 0 3700 5667; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 374 2221 1304 2323">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 374 2221 1304 2323">
+     <span class='ocr_line' id='line_1_1' title="bbox 374 2221 1304 2323; baseline -0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 374 2221 759 2321; x_wconf 84' lang='lat' dir='ltr'>OONOILIUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 793 2224 889 2321; x_wconf 90' lang='lat' dir='ltr'><strong>AN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 891 2222 1304 2323; x_wconf 85' lang='lat' dir='ltr'><strong>TIOOHENUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 476 2695 1202 2781">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 476 2695 1202 2781">
+     <span class='ocr_line' id='line_1_2' title="bbox 476 2695 1202 2781; baseline -0.012 -2"><span class='ocrx_word' id='word_1_4' title='bbox 476 2695 729 2779; x_wconf 85' lang='lat' dir='ltr'><strong>PAULUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 755 2696 1202 2781; x_wconf 81' lang='lat' dir='ltr'><strong>SAMOSATENUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1854 5667">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1854 5667">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1854 5667; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1854 5667; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
